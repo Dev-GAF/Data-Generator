@@ -1,20 +1,20 @@
-# Projeto - Gerador de Dados
+# Project - Data Generator
 
-Este projeto é uma aplicação simples desenvolvida em Python para simular o gerenciamento de dados. A ideia principal é permitir a geração de dados aleatórios, como nome, e-mail, telefone, cidade e estado, e armazená-los em um arquivo de texto.
+This project is a simple application developed in Python to simulate data management. The main idea is to allow the generation of random data, such as name, email, phone number, city, and state, and store them in a text file.
 
-## 📝 Descrição
+## 📝 Description
 
-O programa oferece um menu interativo para o usuário, com as seguintes funcionalidades:
+The program offers an interactive menu for the user, with the following features:
 
-* Ver Dados Gerados: Exibe os dados previamente gerados e armazenados no arquivo de texto.
-* Gerar Novos Dados: Permite ao usuário gerar novos dados aleatórios, que são então armazenados no arquivo.
-* Esvaziar Arquivo: Limpa todos os dados armazenados no arquivo, deixando-o vazio.
-* Sair do Programa: Encerra o programa.
+* View Generated Data: Displays the data previously generated and stored in the text file.
+* Generate New Data: Allows the user to generate new random data, which is then saved to the file.
+* Clear File: Clears all data stored in the file, leaving it empty.
+* Exit Program: Closes the program.
 
-## 👨‍💻 Tecnologias Utilizadas:
+## 👨‍💻 Technologies Used:
 
-Foi utilizado o Python para desenvolver a lógica do sistema, com dicionários para simular o armazenamento dos dados em vez de um banco de dados real. O programa roda completamente no terminal e utiliza um arquivo de texto simples para salvar os dados.
+Python was used to develop the system's logic, with dictionaries to simulate data storage instead of a real database. The program runs completely in the terminal and uses a simple text file to save the data.
 
-## 📋 Licença
+## 📋 License
 
-### Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+### This project is licensed under the MIT License. See the LICENSE file for more details.
