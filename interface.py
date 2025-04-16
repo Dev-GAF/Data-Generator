@@ -123,7 +123,7 @@ def verifica_opcao(lista_num_opcoes, texto, mult_opcoes=False) -> list:
     list: Lista com as opções válidas selecionadas pelo usuário.
     """
     while True:
-        opcoes = capturar_entrada(texto, list)
+        opcoes = capturar_entrada(texto, str)
         lista_opcoes_verificadas = []
         if mult_opcoes:
             lista_opcoes = opcoes.split(",")
